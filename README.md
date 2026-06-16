@@ -1,1 +1,1 @@
-# umbrel-store
+# umbrel-store-bambuddy
